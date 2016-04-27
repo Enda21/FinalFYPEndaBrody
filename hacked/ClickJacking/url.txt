@@ -1,0 +1,4 @@
+file:///C:/xampp/htdocs/hacked/ClickJacking/clickjack.html// test google
+http://localhost/hacked/ClickJacking/orders.php // target
+http://localhost/hacked/ClickJacking/oswap.html // hacker site
+http://localhost/hacked/ClickJacking/bank.php//safe

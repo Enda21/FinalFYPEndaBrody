@@ -1,0 +1,2 @@
+http://localhost/hacked/Cross_request_forgery2/index.php //fixed
+http://localhost/hacked/Cross_request_forgery2/index2.php //not

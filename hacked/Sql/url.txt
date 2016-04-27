@@ -1,0 +1,3 @@
+http://localhost/hacked/Sql/sqlfix.php?order=1
+localhost/hacked/Sql/sqlInjection.php?order=4
+localhost/hacked/Sql/sqlInjection.php?order=1;DROP TABLE test;--

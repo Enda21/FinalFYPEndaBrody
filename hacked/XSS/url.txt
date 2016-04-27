@@ -1,0 +1,3 @@
+http://localhost/hacked/XSS/Non_hackable/index2.php
+http://localhost/hacked/XSS/Hackable/index.php
+
